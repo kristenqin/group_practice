@@ -16,37 +16,35 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> hello world
     <br> 
 </p>
 
 ## 📝 Contents
 
 - [📝 Contents](#-contents)
-- [🧐 About ](#-about-)
-- [🏁 Start ](#-start-)
-- [🐱‍👤 Todo ](#-todo-)
-- [✍️ Authors ](#️-authors-)
+- [🧐 About `<a name = "about"></a>`](#-about-a-name--abouta)
+- [🏁 Start `<a name = "getting_started"></a>`](#-start-a-name--getting_starteda)
+- [🐱‍👤 Todo `<a name = "todo"></a>`](#-todo-a-name--todoa)
+- [✍️ Authors `<a name = "authors"></a>`](#️-authors-a-name--authorsa)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 About `<a name = "about"></a>`
 
-Documenting the learning process of our CS group learning 
+Documenting the learning process of our CS group learning
 
-## 🏁 Start <a name = "getting_started"></a>
+## 🏁 Start `<a name = "getting_started"></a>`
 
 A good start
 
-## 🐱‍👤 Todo <a name = "todo"></a>
+## 🐱‍👤 Todo `<a name = "todo"></a>`
 
 - [ ] Upload learning notes
 - [ ] Upload developing records
 - [ ] Check each other's result and discuss
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Authors `<a name = "authors"></a>`
 
 - [@kristenqin](https://github.com/kristenqin) - Initial work
 - [@cozychang](https://github.com/cozychang) - project building
 
-
 See also the list of [contributors](https://github.com/kristenqin/group_practice/contributors) who participated in this project.
-
