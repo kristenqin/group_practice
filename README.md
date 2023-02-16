@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://icons8.com/icon/31174/saving-book" alt="Project logo"></a>
 </p>
 
 <h3 align="center">GROUP WORK DIARY</h3>
@@ -33,7 +33,7 @@ Documenting the learning process of our CS group learning
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 A good start
-## 🐱‍👤 Todo <a name = "../TODO.md"></a>
+## 🐱‍👤 Todo <a name = "TODO.md"></a>
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@kristenqin](https://github.com/kristenqin) - Initial work
