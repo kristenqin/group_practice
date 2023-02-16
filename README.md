@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="../solving.png" alt="logo"></a>
+ <img width=200px height=200px src="solving.png" alt="logo"></a>
 </p>
 
 <h3 align="center">GROUP WORK DIARY</h3>
@@ -22,10 +22,11 @@
 
 ## 📝 Contents
 
-- [About](#🧐-about)
-- [Getting Started](#🏁-start)
-- [TODO](#🐱‍👤-todo)
-- [Authors](#✍️-authors)
+- [📝 Contents](#-contents)
+- [🧐 About ](#-about-)
+- [🏁 Start ](#-start-)
+- [🐱‍👤 Todo ](#-todo-)
+- [✍️ Authors ](#️-authors-)
 
 ## 🧐 About <a name = "about"></a>
 
