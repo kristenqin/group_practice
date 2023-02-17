@@ -39,4 +39,10 @@
     优先使用相对路径
     ```
   - [ ] 直接在wsl下编辑md文档 添加了一个wsiwyg插件
-- [ ] github多人开发项目
+  - [ ] wsl下粘贴剪切板中的内容
+
+    - 下载xclip
+    - 
+- [ ] github多人开发项目操作
+- [ ] git命令之间的关系 git workflow
+- [ ] WSL和remote WSL的区别
