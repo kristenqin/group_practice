@@ -1,0 +1,3 @@
+[submodule "python_projects/from_kylieying/reference"]
+	path = python_projects/from_kylieying/reference
+	url = https://github.com/kying18/flask-project-doggos.git
